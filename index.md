@@ -6,6 +6,9 @@
 *I'm a junior student from Warren College.*
 ***My favorite programming language is ~~java~~ C++***
 
+*my favorite food is spaghetti
+![image](https://bakerbynature.com/wp-content/uploads/2013/12/IMG_5993-21.jpg "spaghetti")
+
 As the motto of our college:
 > Toward a Life in Balance
 
