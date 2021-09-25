@@ -28,7 +28,7 @@ Sometimes, I also play video games like:
 
 Some things that I recently want to do:
 - [x] waitlist in CSE 110
-- [ ] enroll in CSE 110
-- [ ] learn deep learning myself
+- [x] enroll in CSE 110
+- [x] learn deep learning myself
 - [ ] make fried chicken myself
-- [x] jogging
+- [ ] jogging
