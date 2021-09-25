@@ -1,2 +1,3 @@
 # CSE110LAB1
-Hanming's User e
+Hanming's User Page
+My favorite programming language is C++.
